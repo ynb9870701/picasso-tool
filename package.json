@@ -12,5 +12,9 @@
   },
   "author": "picasso",
   "keywords": [],
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "wy_jstools": "^1.0.1"
+  }
 }
